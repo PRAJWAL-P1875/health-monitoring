@@ -57,6 +57,8 @@ Expand with oxygen level sensors (SpO2)
 
 📸 Screenshots
 ![WhatsApp Image 2025-07-22 at 11 07 47_f6e9d82c](https://github.com/user-attachments/assets/7d16c53f-0b10-4daa-8a1f-d4e12c5a5c4d)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fddfb3f0-5256-45ba-9214-1c2b50e6f85a" />
+
 
 
 🔖 Tags
